@@ -1,0 +1,38 @@
+@font-face {
+    font-family: 'yassin'; /*a name to be used later*/
+    src: url('yassin.ttf'); /*URL to font*/
+}
+.myfont {
+    font-family: 'yassin';
+}
+.nameweb{
+font-size: 50px;
+}
+.logo{
+   height: 200px;
+   width: 200px;
+
+}
+
+.form-signin {
+  width: 100%;
+  max-width: 330px;
+  padding: 15px;
+  margin-top:150px;
+  margin-left:100px;
+  margin-bottom: 50px;
+}
+
+.mybutton{
+  background-color: #424147;
+}
+.locfont{
+  font-size: 30px;
+}
+.log_inf{
+  width: 160px;
+  height: 160px
+}
+.margin_right{
+  margin-right: 30px;
+}
